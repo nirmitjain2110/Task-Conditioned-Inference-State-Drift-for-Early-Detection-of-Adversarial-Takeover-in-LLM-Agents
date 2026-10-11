@@ -1,0 +1,6 @@
+layer,mean_normal_displacement,mean_hard_neg_displacement,mean_attack_displacement,separation_ratio,specificity_margin,estimated_f1
+8,105.69,106.95,1050.92,9.94,943.97,0.828
+14,105.69,106.95,1050.92,9.94,943.97,0.933
+21,105.69,106.95,1050.92,9.94,943.97,0.8075
+24,105.69,106.95,1050.92,9.94,943.97,0.6961
+27,105.69,106.95,1050.92,9.94,943.97,0.5727

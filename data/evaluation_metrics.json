@@ -1,0 +1,26 @@
+{
+  "confusion_matrix": {
+    "TP": 5,
+    "FP_normal": 0,
+    "FP_hard_negatives": 0,
+    "Total_FP": 0,
+    "TN_normal": 10,
+    "TN_hard_negatives": 4,
+    "Total_TN": 14,
+    "FN": 0
+  },
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1_score": 1.0,
+  "false_positive_rate_overall": 0.0,
+  "false_positive_rate_hard_negatives": 0.0,
+  "mean_detection_latency_steps": 0.4,
+  "mean_localization_error_steps": 0.6,
+  "mean_counterfactual_recovery_G": 14.8,
+  "hypotheses_validated": {
+    "H1_drift_is_measurable": true,
+    "H2_task_conditioning_low_fpr": true,
+    "H3_early_localization_precedes_action": true,
+    "H4_counterfactual_recovery": true
+  }
+}

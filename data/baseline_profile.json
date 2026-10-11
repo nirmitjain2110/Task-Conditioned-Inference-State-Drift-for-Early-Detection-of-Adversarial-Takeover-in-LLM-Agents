@@ -1,0 +1,29 @@
+{
+  "regularization": 0.0001,
+  "default_task": "invoice_summary",
+  "calibration_stats": {
+    "D": {
+      "mean": 105.6668869712136,
+      "std": 2.4852344907114863
+    },
+    "C": {
+      "mean": 0.07509762780232863,
+      "std": 0.025675631703348818
+    },
+    "M": {
+      "mean": 0.9997408833208646,
+      "std": 0.022763336046802033
+    },
+    "E": {
+      "mean": 0.022323095070396263,
+      "std": 0.015543244196685655
+    }
+  },
+  "tau_threshold": 2.4,
+  "is_fitted": true,
+  "distribution_keys": [
+    "invoice_summary::early",
+    "invoice_summary::mid",
+    "invoice_summary::late"
+  ]
+}
